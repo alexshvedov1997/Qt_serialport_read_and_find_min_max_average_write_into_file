@@ -1,0 +1,25 @@
+----------------------------------------
+Results
+Average value: 1910.66
+Min value: 2
+Max value: 2293.12
+----------------------------------------
+Results
+Average value: 1908.62
+Min value: 2
+Max value: 2293.69
+----------------------------------------
+Results
+Average value: 1910.12
+Min value: 1575.19
+Max value: 2293.12
+----------------------------------------
+Results
+Average value: 1937.39
+Min value: 1575.19
+Max value: 2293.69
+----------------------------------------
+Results
+Average value: 1936.43
+Min value: 1574.63
+Max value: 2292.75
