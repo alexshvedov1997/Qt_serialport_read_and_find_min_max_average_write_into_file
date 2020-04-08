@@ -1,0 +1,1 @@
+# Qt_serialport_read_and_find_min_max_average_write_into_file
